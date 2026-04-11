@@ -1,0 +1,8 @@
+/a-vim
+/a_vim.o
+/__pycache__/
+/tmp_*.txt
+/tmp_*.c
+/tmp_*.asm
+/onechar*.txt
+/qa_tmp.asm
